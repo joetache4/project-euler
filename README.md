@@ -1,7 +1,7 @@
 # project-euler
 My solutions to [ProjectEuler.net](https://projecteuler.net/) problems.
 
-Solved: 251
+Solved: 252
 Highest Difficulty: 95% (Problem 768)
 
 ## Dependencies
