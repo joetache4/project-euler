@@ -2,6 +2,7 @@
 My solutions to [ProjectEuler.net](https://projecteuler.net/) problems.
 
 Solved: 257
+
 Highest Difficulty: 95% (Problem 768)
 
 ## Dependencies
